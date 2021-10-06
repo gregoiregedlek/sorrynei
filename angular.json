@@ -127,5 +127,10 @@
       }
     }
   },
-  "defaultProject": "sorrynei"
+  "defaultProject": "sorrynei",
+  "schematics": {
+    "@schematics/angular:component": {
+      "styleext": "less"
+    }
+  }
 }
