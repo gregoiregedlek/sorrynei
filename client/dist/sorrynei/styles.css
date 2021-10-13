@@ -1,0 +1,32 @@
+#title {
+  color: #346164;
+}
+#header {
+  color: black;
+  width: 10px;
+  height: 20px;
+}
+#header .navigation {
+  font-size: 12px;
+  font-family: 'Courier New', Courier, monospace;
+}
+#header .logo {
+  width: 300px;
+}
+.bordered {
+  border-top: dotted 1px black;
+  border-bottom: solid 2px black;
+}
+#menu a {
+  color: #111111;
+  border-top: dotted 1px black;
+  border-bottom: solid 2px black;
+}
+.post a {
+  color: ivory;
+  border-top: dotted 1px black;
+  border-bottom: solid 2px black;
+}
+
+
+/*# sourceMappingURL=styles.css.map*/
